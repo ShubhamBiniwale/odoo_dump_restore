@@ -7,3 +7,8 @@ Usage
 2. Open terminal and type chmod +x odoo_db_dump.sh
 3. Execute the script as -> ./odoo_db_dump.sh
 	
+----------------------------------------------------------------
+It should look like this
+
+![Screenshot](odoo_dump_logs.png)
+
